@@ -1,0 +1,20 @@
+19 44
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+-----xxxxxx-xxxxxx------xxxxxxxxxxxxxxxxxxxx
+xxxx-xxxxxx--------xx-x---xxxxxxx---xxxxxxxx
+xxxx-xxxxxx-xxxxxxxxx-xxx-xxxxxxx-xxxxxxxxxx
+xx-----xxxx-xxxxxxxx---xx-xxxx----xxxxxxxxxx
+xxxx-xxxxxx-xxxxxxxxxxxxx-xxxx-xxxxxxxxxxxxx
+xxxx-xxxxxx------xxxxxxxx------xxxxxxxxxxxxx
+xxxx--------xxxx-xxx---xx-xxxxx-------------
+xxxx-xxxxxxxxxxx-xxxxx----xxxxx-xxxxxxxxxxxx
+xxxx-xxxxxxxxxxx-xxxxxxx-xxxxxx-------xxxxxx
+xx---xxxxxxxxxxx-xxxxxxx-xxxxxxxxxx-xxxxxxxx
+xx-xxxxxx----xxx-xxxxxx-------xxxxx-xxxxxxxx
+x-----xxxxxx-xxx--xxxxx-xxxxx-xxxxx-xxxxxxxx
+xx-xx-xxxxxx-xxxx-xxxxx-xxxxx--------xxxxxxx
+xxxxx-xxxxx-------------xxxxxxxxxxxxxxxxxxxx
+xxxxx-xxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx
+xxxxx-xxxxxx----xxxx-xxxxxxxxxxxxxx---xxxxxx
+xxxxx--------xx--------xxxxxxxxxxxxx-xxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---xxxxxx

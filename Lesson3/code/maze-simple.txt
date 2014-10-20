@@ -1,0 +1,6 @@
+5 10
+xxxxxxxxxx
+----xxxxxx
+xxx-xxxxxx
+xxx-------
+xxxxxxxxxx
